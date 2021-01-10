@@ -1,3 +1,15 @@
+
+
+root
+
+772vjrvj
+
+testuser
+
+772vjrvj
+
+
+
 (보기 파일 확장명 클릭 활성화)
 
 (아래 시작전에 ) C:\Program Files\MySQL\MySQL Server 8.0\bin 경로 복사 
