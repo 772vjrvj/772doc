@@ -1,0 +1,15 @@
+search.search.ip
+
+
+
+```
+search.search.ip=211.188.181.124
+search.search.port=80
+search.search.url=/search/membership/mobile-app
+
+
+http://211.188.181.124:80/search/membership/mobile-app
+http://211.188.181.124:80/search/membership/mobile-app?query=test&collection=test&pageNum=1
+
+```
+

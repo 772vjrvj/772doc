@@ -18,9 +18,9 @@
 |      | Ctrl + D                    | 라인 복사                                                    |      |      |
 |      | Ctrl + Alt + ←→             | 이전 커서가 있던 화면으로 돌아갈 때                          |      |      |
 |      | Shift + F6                  | 같은 이름 전체 선택 커서                                     |      |      |
-|      |                             |                                                              |      |      |
-|      |                             |                                                              |      |      |
-|      |                             |                                                              |      |      |
+|      | CTRL + ALT + O              | 자동 import                                                  |      |      |
+|      | Ctrl + Alt + A              | Open action                                                  |      |      |
+|      | Ctrl + Alt + N              | Open File                                                    |      |      |
 |      |                             |                                                              |      |      |
 |      |                             |                                                              |      |      |
 |      |                             |                                                              |      |      |
