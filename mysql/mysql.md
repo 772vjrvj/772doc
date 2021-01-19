@@ -1,3 +1,13 @@
+집desktop 
+
+root / 772vjrvj
+
+회사
+
+root / 
+
+
+
 
 
 root
