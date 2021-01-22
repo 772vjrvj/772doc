@@ -21,15 +21,15 @@
 |      | CTRL + ALT + O              | 자동 import                                                  |      |      |
 |      | Ctrl + Alt + A              | Open action                                                  |      |      |
 |      | Ctrl + Alt + N              | Open File                                                    |      |      |
-|      |                             |                                                              |      |      |
-|      |                             |                                                              |      |      |
-|      |                             |                                                              |      |      |
-|      |                             |                                                              |      |      |
-|      |                             |                                                              |      |      |
-|      |                             |                                                              |      |      |
-|      |                             |                                                              |      |      |
-|      |                             |                                                              |      |      |
-|      |                             |                                                              |      |      |
+|      | Ctrl+B                      | 코드 안에서 다른 코드로 이동                                 |      |      |
+|      | Alt + F1 , 1                | 좌측 프로젝트 bar에 현재 페이지 보여줌                       |      |      |
+|      | Ctrl + Tab                  | 작업중인 창 list                                             |      |      |
+|      | Ctrl + F4                   | 작업중인 창 닫기                                             |      |      |
+|      | Alt + 9                     | git창으로                                                    |      |      |
+|      | Ctl + T                     | git 업데이트                                                 |      |      |
+|      | Alt + 1                     | project창                                                    |      |      |
+|      | Alt + 0                     | commit 창                                                    |      |      |
+|      | Ctl + Shift + ←→            | 창크기 조절 왼족 bar와 프로젝트 사이                         |      |      |
 |      |                             |                                                              |      |      |
 |      |                             |                                                              |      |      |
 |      |                             |                                                              |      |      |
