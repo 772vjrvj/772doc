@@ -1,0 +1,29 @@
+// 이름 확인
+
+$ git config --global user.name
+
+// 이메일 확인
+
+$ git config --global user.email
+
+
+
+// 전체 이름 변경
+
+$ git config --global user.name "I'm I'm"
+
+// 전체 이메일 변경
+
+$ git config --global user.email "test@gmail.com"
+
+// 프로젝트 이름 변경
+
+$ git config --local user.name "I'm I'm"
+
+// 프로젝트 이메일 변경
+
+$ git config --local user.email "test@gmail.com"
+
+
+
+https://mrgamza.tistory.com/499
